@@ -55,3 +55,14 @@
   - Añadir nuevas maquilas.
   - Actualizar detalles de una maquila existente.
   - Cambiar el estado de forma manual.
+
+### ESTRUCTURA DEL BACKEND 
+
+backend/
+├── main.py
+├── models.py
+├── database.py
+├── schemas.py
+└── crud.py
+
+
